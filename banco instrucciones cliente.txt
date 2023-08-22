@@ -1,0 +1,4 @@
+1) Al ejecutar el archivo banco.py se le abrirá una interfaz donde podra elegir entre 4 opciones
+2) En las 4 opciones tendrá la posibilidad de crear cuenta, depositar dinero, retirarlo, transferirlo y consultar saldo.
+3) al ejecutar el botón agregar datos creará una nueva fila en el excel datos.xlsl donde se guardará los datos que ha colocado en el formulario de la interfaz 
+4) Debe cerrar el excel para continuar usando el programa correctamente. 
